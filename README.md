@@ -1,2 +1,2 @@
-# BMI and BMR Calculator for Set of people
+# BMI and BMR Calculator for a Set of people
 A C++ program to calculate the BMR and BMI values for set of people given their number, weight and height.
