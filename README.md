@@ -4,6 +4,7 @@ the program allows the user to enter the data for N persons, where N is a number
 - The Basal Metabolic Rate (BMR) value, the amount of required calories (BMR) for a body to perform daily functions.
 - The Body Mass Index (BMI) value.
 - The status that indicates whether this person has {Optimal weight, Underweight, or Overweight} according to the given Table.  
+
 The program will also print on the screen:  
 - The details of the persons with highest BMI values.
 - The average BMR value per gender for Optimal weighted persons.
